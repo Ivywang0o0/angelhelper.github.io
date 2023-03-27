@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Home</title>
+    <!-- Meta tag Keywords -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="">
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!--// Meta tag Keywords -->
+    <!-- css files -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Bootstrap-Core-CSS -->
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+    <!-- Style-CSS -->
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <!-- Font-Awesome-Icons-CSS -->
+    <!-- //css files -->
+    <!-- online-fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i"
+      rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+      rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,300,400,700"
+      rel="stylesheet">
+    <!-- //online-fonts -->
+    <!-- js -->
+    <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+    <!-- Necessary-JavaScript-File-For-Bootstrap -->
+    <!-- //js -->
+  </head>
+  <body>
+    <!-- header -->
+    <div class="header">
+      <div class="agile-top-header" style="top: 33px; height: 158px;">
+        <div class="banner-agile-top">
+          <div class="number">
+            <h2><span style="color: #666666;"><b><span style="color: #33ccff;">
+                    联系电话：15223383557/ 15611258536</span><br>
+                </b></span> </h2>
+            <h2> <span style="color: #666666;"><b> </b></span> <span style="color: #666666;"><b>
+                </b></span> <span style="color: #666666;"><b> </b></span> <span
+                style="color: #666666;"><b> </b></span> </h2>
+          </div>
+        </div>
+        <div class="logo">
+          <h1><span style="color: #ff6600;"><a href="index.html">北京<span style="color: #ff6600;"><b>
+                    小天使阿姨</b>家政</span></a></span></h1>
+        </div>
+      </div>
+      <!--Slider-->
+      <div class="slider">
+        <div class="callbacks_container">
+          <ul class="rslides" id="slider">
+            <li id="rslides1_s0" class="" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 500ms ease-in-out 0s;">
+              <div class="slider-info">
+                <h3 style="background-color: #ff6600; margin-top: 550px; width: 417px;">小
+                  天使阿姨家政</h3>
+                <span style="color: white;"> </span>
+                <p style="width: 419px;"><span style="color: #333333;"><b>小天使阿姨家
+                      政隶属于北京万易迪泰商贸有限公司,是一家互联网家政平台。不管您的想找保姆，找月嫂，找育儿嫂，找小时工，您都可以将您的
+                      需求简单登记在此，我们将及时为您匹配合适的家政服务员，为您提供高品质的家事服务。</b></span></p>
+                <span style="color: white;"> </span> <span style="color: white;">
+                </span> </div>
+            </li>
+            <li id="rslides1_s1" class="" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 500ms ease-in-out 0s;">
+              <div class="slider-info1">
+                <h3 style="background-color: #ff6600; margin-top: 550px; width: 453.25px; margin-left: 53.75px;">
+                  小天使阿姨家政</h3>
+                <h2><b> <span style="color: white;"> </span> </b></h2>
+                <h2 style=" width: 419px;"><b><span style="color: #333333;">小天使阿
+                      姨家
+                      政隶属于北京万易迪泰商贸有限公司,是一家互联网家政平台。不管您的想找保姆，找月嫂，找育儿嫂，找小时工，您都可以将您的
+                      需求简单登记在此，我们将及时为您匹配合适的家政服务员，为您提供高品质的家事服务。</span></b></h2>
+                <h2><b> <span style="color: white;"> </span> </b><b> </b><b>
+                  </b> </h2>
+              </div>
+            </li>
+            <li>
+              <div class="slider-info2">
+                <h2><b><span style="color: white;"><br>
+                    </span></b> </h2>
+              </div>
+              <h2> <b> <span style="color: white;"> </span> </b><b> </b><b>
+                  <!-- //Modal1 --> </b><b> </b><b> </b><b>
+                  <!--//Slider--> </b><b><span style="color: white;"> </span>
+                </b><b><span style="color: white;"> </span> </b><b><span style="color: white;">
+                  </span> </b></h2>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="main" id="main">
+      <div class="main" id="main" style="left: -443px; width: 506px; top: -72px; height: 275px;">
+        <div class="w3layouts_main_grid">
+          <div class="booking-form-head-agile">
+            <h2> </h2>
+            <h2><b><span style="color: white;">家政需求登记</span></b></h2>
+            <h2> </h2>
+          </div>
+          <h2><b> <span style="color: white;"> </span> </b><b><span style="color: white;">
+              </span> </b><b><span style="color: white;"> </span> </b><b><span
+                style="color: white;"> </span> </b></h2>
+          <form action="file:///D:/work/%E5%B0%8F%E5%A4%A9%E4%BD%BF%E6%9C%AC%E5%9C%B0/%E7%BD%91%E9%A1%B5/16%EF%BC%88%E9%9D%99%E6%80%811%E4%B8%AA%E9%A1%B5%E9%9D%A2%EF%BC%89/16%EF%BC%88%E9%9D%99%E6%80%811%E4%B8%AA%E9%A1%B5%E9%9D%A2%EF%BC%89/index.html#"
+            method="post" class="w3_form_post">
+            <div class="w3_agileits_main_grid w3l_main_grid">
+              <div class="agileits_grid">
+                <h2 style=" margin-top: 24px;"><b><span style="color: white;">如
+                      果您 想找保姆，找月嫂，找育儿嫂，找小时工，可以花一分钟点击此<a href="https://www.wjx.cn/vm/m7e0bEX.aspx#"
+                        style="color: #ff6600;">链接</a>或扫描下方二维码简单登记您的需求，也可以直接拨打
+                      页面 左上角的电话沟通，我们将及时为您匹配合适的家政服务员。</span></b></h2>
+                <p><br>
+                </p>
+                &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img
+                  src="file:///D:/work/%E5%B0%8F%E5%A4%A9%E4%BD%BF%E6%9C%AC%E5%9C%B0/%E7%BD%91%E9%A1%B5/16%EF%BC%88%E9%9D%99%E6%80%811%E4%B8%AA%E9%A1%B5%E9%9D%A2%EF%BC%89/16%EF%BC%88%E9%9D%99%E6%80%811%E4%B8%AA%E9%A1%B5%E9%9D%A2%EF%BC%89/images/xuqiu.jpg"
+                  alt="扫描二维码登记需求" style="top: 313px; left: 82px; width: 216px; height: 216px;"></div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="w3_main_grid">
+      <div class="w3_main_grid_right"> <br>
+      </div>
+      <div class="clearfix"> </div>
+    </div>
+    <!-- //header -->
+    <!-- /关于我们-->
+    <div class="w3-aglile-about" id="about">
+      <div class="w3-agile-about-grids">
+        <div class="w3-aglie-about-grid1">
+          <div class="col-md-6 w3-about-text-grid">
+            <h3 style="background-color: #ffcccc;"><b>关于我们</b></h3>
+            <h4 style="margin-left: 27.5px; height: 45px; margin-top: 32.5px; width: 623px;"><span
+                style="color: #666666;"><b>小天使阿姨家政隶属于北京万易迪泰商贸有限公司, 是一家互联网家政平台。</b></span></h4>
+            <h4> </h4>
+            <h4 style="margin-left: 27.5px; height: 48px; margin-top: 52px; width: 623px;"><span
+                style="color: #666666;"><b>我们将及时为您匹配合适的家政服务员，为您提供高品质的家事服务。</b></span></h4>
+            <h5><br>
+            </h5>
+          </div>
+          <div class="col-md-6 w3-aglie-about-img-grid1"> </div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="w3-aglie-about-grid2">
+          <div class="col-md-4 w3-about-bg-text-grid">
+            <div class="w3-about-bg-head" style="background-color: rgba(255, 102, 0, 0.1);">
+              <h1 style="background-color: rgba(255, 102, 0, 0.1);"><b>经验丰富</b></h1>
+              <h1 style="background-color: rgba(255, 102, 0, 0.1);"> </h1>
+              <h1 style="background-color: rgba(255, 102, 0, 0.1);"> </h1>
+              <h1 style="background-color: rgba(255, 102, 0, 0.1);"> </h1>
+              <h1 style="background-color: rgba(255, 102, 0, 0.1);"><b>持证上岗</b></h1>
+            </div>
+          </div>
+          <div class="col-md-4 w3-about-text1-grid">
+            <div class="w3-about-text-heads">
+              <h1 style="height: 31.25px; margin-top: 134.75px; background-color: #ffcccc;"><b>费
+                  用低</b></h1>
+              <h1 style="margin-top: 15.75px; height: 38.25px; background-color: #ffcccc;"><b>中
+                  介费减50%</b></h1>
+              <p></p>
+              <p style="margin-left: 56px; width: 264px; height: 94px; margin-top: -14px;"><br>
+              </p>
+            </div>
+          </div>
+          <div class="col-md-4 w3-about-img-grid"> </div>
+          <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+    <!-- /about -->
+    <!-- /services -->
+    <div class="services" id="services">
+      <div class="container">
+        <div class="services-agile-head">
+          <h3>如果您想要登记成为家政服务员</h3>
+        </div>
+        <div class="w3-agile-grids">
+          <div class="col-md-6 w3-agile-services-left">
+            <div class="w3-services-text">
+              <ul class="services-head">
+                <li>
+                  <h3><b>阿姨登记</b></h3>
+                </li>
+              </ul>
+              <h4 style="height: 109px; width: 433.75px; margin-top: 19px;">如果您想
+                要 登记 加入我们的家政服务员行列，请您点击<b style="color: #ff6600;"><a href="https://www.wjx.cn/vm/m1bEcH0.aspx?v=67#">链
+                    接</a></b>，或扫描右侧二
+                维码，填写基本信息，我们的工作人员将及时联系您加入派单群。您也可以直接拨打页面顶端联系电话。</h4>
+            </div>
+            <div class="col-md-4 services-icon1"> <i class="fa fa-h-square" aria-hidden="true"></i>
+              <h4>需求匹配</h4>
+            </div>
+            <div class="col-md-4 services-icon1"> <i class="fa fa-briefcase" aria-hidden="true"></i>
+              <h4>大量工作机会</h4>
+            </div>
+            <div class="col-md-4 services-icon1"> <i class="fa fa-plane" aria-hidden="true"></i>
+              <h4>及时反馈</h4>
+            </div>
+          </div>
+          <div class="col-md-6 w3-agile-services-right"> <img src="images/ab1.jpg"
+              alt="services" style="width: 356px; height: 356px;">
+            <h3 style="margin-top: -270px; margin-left: 369px;"><span style="color: #ff6600;">Welcome！</span></h3>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+    </div>
+    <!-- //services-->
+    <!-- Gallery -->
+    <div id="gallery" class="gallery">
+      <div class="container">
+        <div class="agileits-gal-title">
+          <h3>我们的服务</h3>
+          <h3></h3>
+        </div>
+        <div class="sap_tabs">
+          <div id="horizontalTab" style="display: block; width: 100%; margin: 0px;">
+            <ul class="resp-tabs-list">
+              <li class="resp-tab-item"><b><span>育儿</span></b></li>
+              <b> </b>
+              <li class="resp-tab-item"><b><span>月嫂</span></b></li>
+              <li class="resp-tab-item"><b><span>护老</span></b></li>
+              <b> </b>
+              <li class="resp-tab-item"><b><span>家务清洁及小时工</span></b></li>
+            </ul>
+            <div class="clearfix"> </div>
+            <div class="resp-tabs-container">
+              <div class="tab-1 resp-tab-content resp-tab-content-active" aria-labelledby="tab_item-0"
+                style="display:block">
+                <div class="col-md-6 portfolio-grids">
+                  <div class="gallery-text-agile agile-offer1">
+                    <h3>育儿<span></span></h3>
+                    <p>包括婴幼儿个人卫生护理，协助购买婴幼儿用品,
+                      照顾婴幼儿的起居饮食，培养良好生活习惯，陪伴婴幼儿玩耍，启发婴幼儿心智发展，外出接送陪伴玩耍及其他相关的照顾工作。其他工作范围如基本家务，煮食等可议。</p>
+                  </div>
+                </div>
+                <div class="col-md-6 portfolio-grids offer-gal-images offer-gal-img1">
+                  <div class="offer-gallery-img1"> </div>
+                </div>
+                <div class="clearfix"> </div>
+              </div>
+              <div class="tab-2 resp-tab-content">
+                <div class="col-md-6 portfolio-grids">
+                  <div class="gallery-text-agile agile-offer1">
+                    <h3>婴儿照顾<span></span></h3>
+                    <p>包括喂奶，更换尿片，沐浴、清洁脐带，清洗婴儿衣服，清洗及消毒奶瓶等。</p>
+                  </div>
+                  <div class="gallery-text-agile agile-offer2">
+                    <h3>产妇护理<span></span></h3>
+                    <p>包括按产妇的身体状况及需求，安排补身膳食，协助产妇复原。</p>
+                  </div>
+                  <div class="gallery-text-agile agile-offer3">
+                    <h3>教授护理技巧<span></span></h3>
+                    <p>与产妇及其家人分享婴儿护理技巧和心得。</p>
+                  </div>
+                  <div class="gallery-text-agile agile-offer4">
+                    <h3> 简单家务<span></span></h3>
+                    <p>简单清理及代购食材。请留意月嫂的工作范围不包括大型家居清洁。</p>
+                  </div>
+                </div>
+                <div class="col-md-6 portfolio-grids offer-gal-images offer-gal-img3">
+                  <div class="offer-gallery-img3"> </div>
+                </div>
+                <div class="clearfix"></div>
+              </div>
+              <div class="tab-3 resp-tab-content">
+                <div class="col-md-6 portfolio-grids">
+                  <div class="gallery-text-agile agile-offer1">
+                    <h3>长者照护<span></span></h3>
+                    <p>包括一般清洁，准备饭菜，帮长者洗澡，失禁处理，安全扶抱及转移（协助由床转移至轮椅，坐于床边）及陪诊。</p>
+                  </div>
+                </div>
+                <div class="col-md-6 portfolio-grids offer-gal-images offer-gal-img4">
+                  <div class="offer-gallery-img4"> </div>
+                </div>
+                <div class="clearfix"></div>
+              </div>
+              <div class="tab-4 resp-tab-content">
+                <div class="col-md-6 portfolio-grids offer-gal-images offer-gal-img5">
+                  <div class="offer-gallery-img5"> </div>
+                </div>
+                <div class="col-md-6 portfolio-grids">
+                  <div class="gallery-text-agile agile-offer1">
+                    <h3>客厅和卧室<span></span></h3>
+                    <p>清理灰尘；清洁地板；清洁衣柜表面；清洁台面</p>
+                  </div>
+                  <div class="gallery-text-agile agile-offer2">
+                    <h3>厨房<span></span></h3>
+                    <p>清洁家电，柜台，橱柜；清洁通风扇和设备外部；擦洗和消毒水槽；洗地板和瓷砖墙</p>
+                  </div>
+                  <div class="gallery-text-agile agile-offer3">
+                    <h3>浴室<span></span></h3>
+                    <p>清洁，消毒所有固定装置；清洁，擦洗和消毒浴缸；清洁和消毒厕所；清洗地板和瓷砖墙</p>
+                  </div>
+                </div>
+                <div class="clearfix"> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- //Gallery -->
+      <!-- Testimonials -->
+      <div class="contact" id="contact">
+        <div class="map">
+          <div class="footer-w3">
+            <p>Copyright © 2023.小天使阿姨家政 All rights reserved.</p>
+          </div>
+          <!--//footer-->
+          <script src="js/easyResponsiveTabs.js" type="text/javascript"></script>
+          <script type="text/javascript">
+			$(document).ready(function () {
+				$('#horizontalTab').easyResponsiveTabs({
+					type: 'default', //Types: default, vertical, accordion           
+					width: 'auto', //auto or any width like 600px
+					fit: true   // 100% fit in a container
+				});
+			});		
+		</script>
+          <!-- //script for portfolio -->
+          <!-- //For-Gallery-js -->
+          <!-- for-Testimonials -->
+          <!-- required-js-files-->
+          <link href="css/owl.carousel.css" rel="stylesheet">
+          <script src="js/owl.carousel.js"></script>
+          <script>
+							    $(document).ready(function() {
+							      $("#owl-demo").owlCarousel({
+							        items : 1,
+							        lazyLoad : true,
+							        autoPlay : true,
+							        navigation : false,
+							        navigationText :  false,
+							        pagination : true,
+							      });
+							    });
+							    </script>
+          <!--//required-js-files-->
+          <!-- //for-Testimonials -->
+          <!-- Calendar -->
+          <link rel="stylesheet" href="css/jquery-ui.css">
+          <script src="js/jquery-ui.js"></script>
+          <script>
+					  $(function() {
+						$( "#datepicker,#datepicker1" ).datepicker();
+					  });
+			  </script>
+          <!-- //Calendar -->
+          <!-- start-smoth-scrolling -->
+          <script type="text/javascript" src="js/move-top.js"></script>
+          <script type="text/javascript" src="js/easing.js"></script>
+          <script type="text/javascript">
+					jQuery(document).ready(function($) {
+						$(".scroll").click(function(event){		
+							event.preventDefault();
+							$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+						});
+					});
+				</script>
+          <!-- start-smoth-scrolling -->
+          <!-- smooth scrolling-bottom-to-top -->
+          <script type="text/javascript">
+					$(document).ready(function() {
+					/*
+						var defaults = {
+						containerID: 'toTop', // fading element id
+						containerHoverID: 'toTopHover', // fading element hover id
+						scrollSpeed: 1200,
+						easingType: 'linear' 
+						};
+					*/								
+					$().UItoTop({ easingType: 'easeOutQuart' });
+					});
+				</script> <a href="#" id="toTop" style="display: block;"> <span id="toTopHover"
+              style="opacity: 1;"> </span></a>
+          <script src="js/SmoothScroll.min.js"></script> </div>
+      </div>
+    </div>
+  </body>
+</html>
